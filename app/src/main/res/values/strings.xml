@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">nuevaApp</string>
+    <string name="welcome_message">¡Bienvenido a Nuestra App!</string>
+    <string name="btn_go_to_second">Ir a la segunda ventana</string>
+    <string name="option_default">Selecciona una opción</string>
+    <string name="option_account_selected">Mi cuenta</string>
+    <string name="option_dashboard_selected">Dashboard</string>
+    <string name="btn_go_to_third">Ir a la tercera ventana</string>
+    <string name="option_profile_selected">Mi perfil</string>
+    <string name="option_settings_selected">Configuracion</string>
+    <string name="option_notifications_selected">Panel Notificaciones</string>
+    <string name="btn_go_to_first">Ir a la primera ventana</string>
+</resources>
